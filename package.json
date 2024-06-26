@@ -1,0 +1,22 @@
+{
+  "name": "binarysearchtejas",
+  "version": "1.0.1",
+  "description": "this is package for binary search",
+  "main": "binarySearch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tejas-2104/binarySearch_npmPackage.git"
+  },
+  "keywords": [
+    "binarySearch"
+  ],
+  "author": "Tejas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tejas-2104/binarySearch_npmPackage/issues"
+  },
+  "homepage": "https://github.com/tejas-2104/binarySearch_npmPackage#readme"
+}
